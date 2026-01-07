@@ -10,7 +10,7 @@
   "categories": [
     "Other"
   ],
-  "icon" : "C:/Users/aero0/changefiledirection/changefiledirectory.jpg",
+  "icon" : "changefiledirectory.jpg",
   "repository": {
     "type":"git",
     "url" : "https://github.com/donggae0629/ChangeFileDirectory.git"
