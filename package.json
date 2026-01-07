@@ -1,7 +1,8 @@
 {
+  "publisher" : "donggae0629",
   "name": "changefiledirection",
   "displayName": "ChangeFileDirection",
-  "description": "You can auto or command change window direction",
+  "description": "You can auto or command change window direction, you can activate this extension with alt+c and also deactivate same thing",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"
@@ -9,6 +10,11 @@
   "categories": [
     "Other"
   ],
+  
+  "repository": {
+    "type":"git",
+    "url" : "https://github.com/donggae0629/ChangeFileDirectory.git"
+  },
   "activationEvents": [
     "onStartupFinished",
     "onCommand:changefiledirection.helloWorld"
